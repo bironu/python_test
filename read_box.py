@@ -1,8 +1,7 @@
 # 使用方法
-# $ python mp4_descripter.py [引数1] [引数2]
+# $ python read_box.py [引数1]
 #
 # 引数1: ファイル名
-# 引数2: 内容を表示したいコンテナのインデックス
 
 import os
 import sys
